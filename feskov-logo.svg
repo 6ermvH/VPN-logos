@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" role="img" aria-label="FESKOV vpn service logo">
+  <title>FESKOV vpn service</title>
+
+  <!-- Transparent background by default -->
+  <g transform="translate(735 0)">
+    <g fill="#FFFFFF" font-family="sans-serif" font-weight="700">
+      <text x="-68" y="190" font-size="150" text-anchor="end">FESK</text>
+      <text x="46" y="190" font-size="150" text-anchor="start">V</text>
+    </g>
+
+    <!-- Orange lock as the O -->
+    <g transform="translate(-10 148)">
+      <path d="M-22 -32v-18a22 22 0 0 1 44 0v18" fill="none" stroke="#FFFFFF" stroke-width="10" stroke-linecap="round"/>
+      <circle cx="0" cy="0" r="58" fill="#F58200"/>
+      <path d="M0 -12a10 10 0 0 0-6 18v14h12v-14a10 10 0 0 0-6-18z" fill="#2F3640"/>
+    </g>
+  </g>
+
+  <!-- Subtitle directly under the centered wordmark -->
+  <g transform="translate(600 0)">
+    <text x="0" y="286" fill="#FFFFFF" font-family="sans-serif" font-size="72" font-weight="700" text-anchor="middle" letter-spacing="1">
+      vpn service
+    </text>
+  </g>
+</svg>
